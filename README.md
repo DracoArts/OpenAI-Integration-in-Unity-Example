@@ -11,7 +11,7 @@ OpenAI's suite of artificial intelligence models offers game developers unpreced
 # Deep Dive into OpenAI's Capabilities for Unity
 
 ## 1. Natural Language Processing for Enhanced Interactions
-OpenAI's language models (GPT-3.5, GPT-4) bring human-like conversational abilities to Unity projects:
+- OpenAI's language models (GPT-3.5, GPT-4) bring human-like conversational abilities to Unity projects:
 
 ### Dynamic NPC Dialogues:
  - Non-player characters can engage in meaningful, context-aware conversations that adapt to player input in real-time, moving beyond pre-scripted dialogue trees.
